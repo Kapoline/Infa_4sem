@@ -6,72 +6,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ca8085c-213c-47f1-8740-a015bc94df9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Controllers/ContactController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Controllers/HomeController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Models/ErrorViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Portfolio.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/Contact/Contacts.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/Home/Index.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/Home/Privacy.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/Shared/CssPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/Shared/Error.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/Shared/FooterPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/Shared/HeaderPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/Shared/MetatagsPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/Shared/ScripsPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/Shared/_Layout.cshtml.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/_ViewImports.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/_ViewStart.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.RazorAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.RazorAssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/obj/Portfolio.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/obj/Portfolio.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/obj/Portfolio.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/wwwroot/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/wwwroot/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/wwwroot/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/wwwroot/lib/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/wwwroot/lib/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/wwwroot/lib/php-mail-form/validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/PortfolioMisc.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/Services/EmailServices/EmailConfiguration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/Services/EmailServices/EmailService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/Services/EmailServices/IEmailServices.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/Services/EmailServices/Message.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/obj/Debug/net6.0/PortfolioMisc.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/obj/Debug/net6.0/PortfolioMisc.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/obj/Debug/net6.0/PortfolioMisc.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/obj/Debug/net6.0/PortfolioMisc.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/obj/Debug/net6.0/PortfolioMisc.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/obj/PortfolioMisc.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/obj/PortfolioMisc.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/obj/PortfolioMisc.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfolioMisc/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Controllers/ContactController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Controllers/ContactController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Views/Contact/Contacts.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Views/Contact/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Views/Shared/HeaderPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Views/Shared/HeaderPartial.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioMisc/Class1.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +37,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -161,8 +106,17 @@
       <workItem from="1645967276995" duration="109000" />
       <workItem from="1645967541820" duration="632000" />
       <workItem from="1646405843602" duration="7944000" />
-      <workItem from="1646415620026" duration="1314000" />
+      <workItem from="1646415620026" duration="2157000" />
+      <workItem from="1646470821666" duration="1430000" />
     </task>
+    <task id="LOCAL-00001" summary="добавила всякого">
+      <created>1646416961388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646416961388</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,5 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="добавила всякого" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавила всякого" />
   </component>
 </project>
