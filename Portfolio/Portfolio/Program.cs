@@ -1,6 +1,10 @@
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using PorfolioDataAccess;
+using Portfolio.Models;
 using PortfolioMisc.Services.EmailServices;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +16,13 @@ var emailConfig = builder.Configuration
     .Get<EmailConfiguration>();
 builder.Services.AddSingleton(emailConfig);
 builder.Services.AddScoped<IEmailServices, EmailService>();
+
+builder.Services.AddDbContext<Context>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Connection")));
+
+builder.Services.AddIdentity<User,IdentityRole>()
+    .AddEntityFrameworkStores<Context>();
+
 
 var app = builder.Build();
 
@@ -30,6 +41,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+app.UseAuthentication();
 
 app.MapControllerRoute(
     name: "default",
