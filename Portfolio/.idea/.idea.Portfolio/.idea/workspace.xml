@@ -5,72 +5,9 @@
     <projectFile profileName="IIS Express">Portfolio/Portfolio.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ca8085c-213c-47f1-8740-a015bc94df9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PorfolioDataAccess/Context.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PorfolioDataAccess/PorfolioDataAccess.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/Debug/net6.0/PorfolioDataAccess.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/Debug/net6.0/PorfolioDataAccess.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/Debug/net6.0/PorfolioDataAccess.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/Debug/net6.0/PorfolioDataAccess.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/Debug/net6.0/PorfolioDataAccess.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/PorfolioDataAccess.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/PorfolioDataAccess.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/PorfolioDataAccess.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/PortfiolioEntity.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/Request.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/User.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/Debug/net6.0/PortfiolioEntity.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/Debug/net6.0/PortfiolioEntity.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/Debug/net6.0/PortfiolioEntity.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/Debug/net6.0/PortfiolioEntity.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/Debug/net6.0/PortfiolioEntity.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/Debug/net6.0/PortfiolioEntity.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/PortfiolioEntity.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/PortfiolioEntity.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/PortfiolioEntity.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Controllers/AuthController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Controllers/UserController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Models/LoginModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Models/RegModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Models/User.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/Auth/Login.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/Auth/Register.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfolio/Views/User/User.cshtml" afterDir="false" />
+    <list default="true" id="8ca8085c-213c-47f1-8740-a015bc94df9e" name="Changes" comment="добавила регистрацию, авторизацию, запоминание юзера">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/Portfolio.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Portfolio.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/Views/Shared/HeaderPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Views/Shared/HeaderPartial.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portfolio/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/obj/Portfolio.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/Portfolio.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/obj/Portfolio.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/Portfolio.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/obj/Portfolio.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/Portfolio.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioMisc/PortfolioMisc.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioMisc/PortfolioMisc.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioMisc/obj/Debug/net6.0/PortfolioMisc.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioMisc/obj/Debug/net6.0/PortfolioMisc.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioMisc/obj/PortfolioMisc.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioMisc/obj/PortfolioMisc.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioMisc/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioMisc/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioMisc/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioMisc/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioMisc/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioMisc/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioMisc/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioMisc/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +34,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/575c31ecc35a636b6f962cb71d53992552941a18982aae1c8e6c16305cc3761b/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PorfolioDataAccess/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -170,7 +108,7 @@
       <workItem from="1647083820415" duration="1338000" />
       <workItem from="1647620682849" duration="3261000" />
       <workItem from="1647802432492" duration="3113000" />
-      <workItem from="1648229535355" duration="11450000" />
+      <workItem from="1648229535355" duration="13202000" />
     </task>
     <task id="LOCAL-00001" summary="добавила всякого">
       <created>1646416961388</created>
@@ -186,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646472785769</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="добавила регистрацию, авторизацию, запоминание юзера">
+      <created>1648243418134</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648243418134</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +155,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="добавила всякого" />
     <MESSAGE value="поменяла кое-что" />
-    <option name="LAST_COMMIT_MESSAGE" value="поменяла кое-что" />
+    <MESSAGE value="добавила регистрацию, авторизацию, запоминание юзера" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавила регистрацию, авторизацию, запоминание юзера" />
   </component>
 </project>
