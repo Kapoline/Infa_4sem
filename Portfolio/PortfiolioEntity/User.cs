@@ -1,8 +1,9 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿
+using Microsoft.AspNetCore.Identity;
 
-namespace PortfiolioEntity;
+namespace Portfolio.Models;
 
 public class User : IdentityUser
 {
-    public string Name { get; set; }
+   public int Year { get; set; }
 }

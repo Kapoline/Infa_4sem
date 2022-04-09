@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using PortfiolioEntity;
 using Portfolio.Models;
 
 namespace Portfolio.Controllers;
@@ -32,7 +33,7 @@ public class AuthController : Controller
     {
         if (ModelState.IsValid)
         {
-            User user = new User {Email = model.Email, UserName = model.Name, EmailConfirmed = true};
+            User user = new User {Email = model.Email, UserName = model.Email, Year=model.Year};
             var result = await _userManager.CreateAsync(user, model.Password);
             if (result.Succeeded)
             {
