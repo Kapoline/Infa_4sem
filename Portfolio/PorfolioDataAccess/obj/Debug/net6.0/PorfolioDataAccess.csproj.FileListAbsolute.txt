@@ -1,0 +1,17 @@
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\bin\Debug\net6.0\PorfolioDataAccess.deps.json
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\bin\Debug\net6.0\PorfolioDataAccess.dll
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\bin\Debug\net6.0\ref\PorfolioDataAccess.dll
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\bin\Debug\net6.0\PorfolioDataAccess.pdb
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\bin\Debug\net6.0\PortfiolioEntity.dll
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\bin\Debug\net6.0\PortfiolioEntity.pdb
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\obj\Debug\net6.0\PorfolioDataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\obj\Debug\net6.0\PorfolioDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\obj\Debug\net6.0\PorfolioDataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\obj\Debug\net6.0\PorfolioDataAccess.AssemblyInfo.cs
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\obj\Debug\net6.0\PorfolioDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\obj\Debug\net6.0\PorfolioDataAccess.csproj.CopyComplete
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\obj\Debug\net6.0\PorfolioDataAccess.dll
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\obj\Debug\net6.0\ref\PorfolioDataAccess.dll
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\obj\Debug\net6.0\PorfolioDataAccess.pdb
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\bin\Debug\net6.0\PorfolioDataAccess.runtimeconfig.json
+C:\Users\User\Infa_4sem\Portfolio\PorfolioDataAccess\obj\Debug\net6.0\PorfolioDataAccess.genruntimeconfig.cache

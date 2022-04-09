@@ -1,7 +1,7 @@
 ﻿
 using Microsoft.AspNetCore.Identity;
 
-namespace Portfolio.Models;
+namespace PortfiolioEntity;
 
 public class User : IdentityUser
 {

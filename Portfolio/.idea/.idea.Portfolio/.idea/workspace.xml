@@ -5,9 +5,56 @@
     <projectFile profileName="IIS Express">Portfolio/Portfolio.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ca8085c-213c-47f1-8740-a015bc94df9e" name="Changes" comment="добавила регистрацию, авторизацию, запоминание юзера">
+    <list default="true" id="8ca8085c-213c-47f1-8740-a015bc94df9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PortfiolioEntity/Entitie.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/Controllers/BlogController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/Views/Blog/AddBlog.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfolio/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PorfolioDataAccess/Context.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PorfolioDataAccess/Context.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PorfolioDataAccess/obj/Debug/net6.0/PorfolioDataAccess.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/Debug/net6.0/PorfolioDataAccess.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PorfolioDataAccess/obj/PorfolioDataAccess.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/PorfolioDataAccess.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PorfolioDataAccess/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PorfolioDataAccess/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PorfolioDataAccess/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/PorfolioDataAccess/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfiolioEntity/PortfiolioEntity.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PortfiolioEntity/PortfiolioEntity.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfiolioEntity/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PortfiolioEntity/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfiolioEntity/obj/Debug/net6.0/PortfiolioEntity.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/Debug/net6.0/PortfiolioEntity.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfiolioEntity/obj/Debug/net6.0/PortfiolioEntity.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/Debug/net6.0/PortfiolioEntity.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfiolioEntity/obj/PortfiolioEntity.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/PortfiolioEntity.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfiolioEntity/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfiolioEntity/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfiolioEntity/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfiolioEntity/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/PortfiolioEntity/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Controllers/AuthController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Controllers/AuthController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Controllers/ContactController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Controllers/ContactController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Models/RegModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Models/RegModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Models/User.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Portfolio.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Portfolio.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Views/Auth/Login.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Views/Auth/Login.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Views/Auth/Register.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Views/Auth/Register.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Views/Contact/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Views/Contact/Contact.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Views/Shared/CssPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Views/Shared/CssPartial.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Views/Shared/HeaderPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Views/Shared/HeaderPartial.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Views/Shared/ScripsPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Views/Shared/ScripsPartial.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Views/Shared/_Layout.cshtml.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/Views/User/User.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/Views/User/User.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/Portfolio.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/obj/Portfolio.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/Portfolio.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/obj/Portfolio.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/Portfolio.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioMisc/obj/Debug/net6.0/PortfolioMisc.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioMisc/obj/Debug/net6.0/PortfolioMisc.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioMisc/obj/PortfolioMisc.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioMisc/obj/PortfolioMisc.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioMisc/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioMisc/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioMisc/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioMisc/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioMisc/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioMisc/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +80,18 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/User/Infa_4sem/Portfolio/Portfolio/Views/Auth/Register.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/User/Infa_4sem/Portfolio/Portfolio/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/575c31ecc35a636b6f962cb71d53992552941a18982aae1c8e6c16305cc3761b/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Portfolio/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PorfolioDataAccess/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/37a954845b52703c5cce1aacf8fa1292378878e82bf68c4c4b5effc447316e9/IdentityUser.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/User/Infa_4sem/Portfolio/Portfolio/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Portfolio/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/User/Infa_4sem/Portfolio/PortfiolioEntity/User.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/User/Infa_4sem/Portfolio/Portfolio/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/User/Infa_4sem/Portfolio/Portfolio/Models/RegModel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/User/Infa_4sem/Portfolio/Portfolio/Views/Auth/Register.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -108,7 +164,13 @@
       <workItem from="1647083820415" duration="1338000" />
       <workItem from="1647620682849" duration="3261000" />
       <workItem from="1647802432492" duration="3113000" />
-      <workItem from="1648229535355" duration="13202000" />
+      <workItem from="1648229535355" duration="17518000" />
+      <workItem from="1648734812085" duration="1093000" />
+      <workItem from="1648735968526" duration="1075000" />
+      <workItem from="1648737251420" duration="295000" />
+      <workItem from="1648739282779" duration="1328000" />
+      <workItem from="1648836573082" duration="289000" />
+      <workItem from="1649495785730" duration="2514000" />
     </task>
     <task id="LOCAL-00001" summary="добавила всякого">
       <created>1646416961388</created>
@@ -131,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648243418134</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=".">
+      <created>1648286112617</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648286112617</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +225,7 @@
     <MESSAGE value="добавила всякого" />
     <MESSAGE value="поменяла кое-что" />
     <MESSAGE value="добавила регистрацию, авторизацию, запоминание юзера" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавила регистрацию, авторизацию, запоминание юзера" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>

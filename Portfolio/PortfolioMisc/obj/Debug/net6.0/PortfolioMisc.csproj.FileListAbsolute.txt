@@ -1,0 +1,17 @@
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\bin\Debug\net6.0\PortfolioMisc.deps.json
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\bin\Debug\net6.0\PortfolioMisc.dll
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\bin\Debug\net6.0\ref\PortfolioMisc.dll
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\bin\Debug\net6.0\PortfolioMisc.pdb
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\obj\Debug\net6.0\PortfolioMisc.csproj.AssemblyReference.cache
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\obj\Debug\net6.0\PortfolioMisc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\obj\Debug\net6.0\PortfolioMisc.AssemblyInfoInputs.cache
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\obj\Debug\net6.0\PortfolioMisc.AssemblyInfo.cs
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\obj\Debug\net6.0\PortfolioMisc.csproj.CoreCompileInputs.cache
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\obj\Debug\net6.0\PortfolioMisc.dll
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\obj\Debug\net6.0\ref\PortfolioMisc.dll
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\obj\Debug\net6.0\PortfolioMisc.pdb
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\bin\Debug\net6.0\PorfolioDataAccess.dll
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\bin\Debug\net6.0\PortfiolioEntity.dll
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\bin\Debug\net6.0\PorfolioDataAccess.pdb
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\bin\Debug\net6.0\PortfiolioEntity.pdb
+C:\Users\User\Infa_4sem\Portfolio\PortfolioMisc\obj\Debug\net6.0\PortfolioMisc.csproj.CopyComplete

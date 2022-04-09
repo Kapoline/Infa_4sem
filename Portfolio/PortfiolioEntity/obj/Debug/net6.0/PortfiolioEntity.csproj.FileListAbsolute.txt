@@ -1,0 +1,12 @@
+C:\Users\User\Infa_4sem\Portfolio\PortfiolioEntity\bin\Debug\net6.0\PortfiolioEntity.deps.json
+C:\Users\User\Infa_4sem\Portfolio\PortfiolioEntity\bin\Debug\net6.0\PortfiolioEntity.dll
+C:\Users\User\Infa_4sem\Portfolio\PortfiolioEntity\bin\Debug\net6.0\ref\PortfiolioEntity.dll
+C:\Users\User\Infa_4sem\Portfolio\PortfiolioEntity\bin\Debug\net6.0\PortfiolioEntity.pdb
+C:\Users\User\Infa_4sem\Portfolio\PortfiolioEntity\obj\Debug\net6.0\PortfiolioEntity.csproj.AssemblyReference.cache
+C:\Users\User\Infa_4sem\Portfolio\PortfiolioEntity\obj\Debug\net6.0\PortfiolioEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Infa_4sem\Portfolio\PortfiolioEntity\obj\Debug\net6.0\PortfiolioEntity.AssemblyInfoInputs.cache
+C:\Users\User\Infa_4sem\Portfolio\PortfiolioEntity\obj\Debug\net6.0\PortfiolioEntity.AssemblyInfo.cs
+C:\Users\User\Infa_4sem\Portfolio\PortfiolioEntity\obj\Debug\net6.0\PortfiolioEntity.csproj.CoreCompileInputs.cache
+C:\Users\User\Infa_4sem\Portfolio\PortfiolioEntity\obj\Debug\net6.0\PortfiolioEntity.dll
+C:\Users\User\Infa_4sem\Portfolio\PortfiolioEntity\obj\Debug\net6.0\ref\PortfiolioEntity.dll
+C:\Users\User\Infa_4sem\Portfolio\PortfiolioEntity\obj\Debug\net6.0\PortfiolioEntity.pdb
